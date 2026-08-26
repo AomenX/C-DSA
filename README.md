@@ -39,3 +39,45 @@ Solve problems
    ↓
 Review and optimize
 
+---
+
+## 🧠 Learning Approach
+
+| #  | Problem                      | Status         | Main Concepts                      |
+| -- | ---------------------------- | -------------- | ---------------------------------- |
+| 01 | Contains Duplicate           | 🟡 In Progress | Arrays, Sets, Hashing, Hash Tables |
+| 02 | Valid Anagram                | ⬜              | Arrays, Frequency Counting         |
+| 03 | Two Sum                      | ⬜              | Hash Tables, Lookup                |
+| 04 | Group Anagrams               | ⬜              | Hashing, Strings                   |
+| 05 | Top K Frequent Elements      | ⬜              | Hashing, Buckets, Heap             |
+| 06 | Encode and Decode Strings    | ⬜              | Strings, Encoding                  |
+| 07 | Product of Array Except Self | ⬜              | Prefix/Suffix Products             |
+| 08 | Longest Consecutive Sequence | ⬜              | Hash Sets, Sequences               |
+
+
+---
+
+🏗️ Data Structures Implemented
+Hashing
+ Basic hash function
+ Hash index
+ Collision handling
+ Open addressing
+ Linear probing
+ Hash table initialization
+ Hash table insertion
+ Hash table lookup
+ Dynamic resizing
+ Rehashing
+ Load factor
+-> Coming Later <-
+ Dynamic Array
+ Linked List
+ Stack
+ Queue
+ Hash Table
+ Binary Search Tree
+ Heap
+ Graph
+ Trie
+ Union-Find
