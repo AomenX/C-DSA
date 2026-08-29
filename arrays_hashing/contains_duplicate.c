@@ -25,8 +25,8 @@ int contains_duplicate(int *nums, int size)
 int     main(void)
 {
         int nums1[] = {1, 2, 3, 1};
-        int nums2[] = {1, 2, 3, 4};
+        int nums2[] = {-1, -1, -1};
 
         printf("%d\n", contains_duplicate(nums1, 4));
-        printf("%d\n", contains_duplicate(nums2, 4));
+        printf("%d\n", contains_duplicate(nums2, 3));
 }
