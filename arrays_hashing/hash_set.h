@@ -9,7 +9,8 @@ typedef struct s_Hashset
     int capacity;
 } t_HashSet;
 
-int hash_set_init(t_HashSet *set, int capacity);
-int hash_set_insert(t_HashSet *set, int value);
+int     hash_set_init(t_HashSet *set, int capacity);
+int     hash_set_insert(t_HashSet *set, int value);
+int     hash_set_contains(t_HashSet *set, int value);
 
  #endif
