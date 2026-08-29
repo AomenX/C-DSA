@@ -12,5 +12,6 @@ typedef struct s_Hashset
 int     hash_set_init(t_HashSet *set, int capacity);
 int     hash_set_insert(t_HashSet *set, int value);
 int     hash_set_contains(t_HashSet *set, int value);
+void    hash_set_destroy(t_HashSet *set);
 
  #endif

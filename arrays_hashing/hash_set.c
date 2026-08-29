@@ -60,3 +60,9 @@ int hash_set_contains(t_HashSet *set, int value)
         }
         return (0);
 }
+
+void    hash_set_destroy(t_HashSet *set)
+{
+        free(set->table);
+        set->table = NULL;
+}
